@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/jonathasborges1/tenor.github.io.git
+	branch = main
