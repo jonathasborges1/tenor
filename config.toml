@@ -1,0 +1,6 @@
+baseURL = 'https://jonathasborges1.github.io/tenor/'
+languageCode = 'pt-br'
+title = 'Tenore'
+theme= 'LoveIt'
+
+
